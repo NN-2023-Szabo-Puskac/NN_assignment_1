@@ -1,4 +1,6 @@
 *.code-workspace
 logs
 models
+/wandb
+
 
