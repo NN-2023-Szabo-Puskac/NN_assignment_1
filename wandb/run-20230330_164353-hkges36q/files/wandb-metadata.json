@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-30T14:43:53.763081",
+    "startedAt": "2023-03-30T14:43:53.095294",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/NN-2023-Szabo-Puskac/NN_assignment_1.git",
+        "commit": "5ad669fb2d3fb799f1a6fa39acbd1fa1a7186221"
+    },
+    "email": "vikioza@gmail.com",
+    "root": "C:/VScode Projects/FIIT_MASTERS/NSIETE/nsiete_projects/NN_assignment_1",
+    "host": "We_Are_Legion",
+    "username": "vikio",
+    "executable": "c:\\Users\\vikio\\anaconda3\\envs\\nsiete_test\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "total": 953.1435508728027,
+        "used": 385.9665412902832
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.73094940185547
+    }
+}
